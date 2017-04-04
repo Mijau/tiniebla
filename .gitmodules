@@ -1,0 +1,6 @@
+[submodule "dependencias/style_utils"]
+	path = dependencias/style_utils
+	url = https://github.com/kernspaltung/style_utils.git
+[submodule "dependencias/js_utils"]
+	path = dependencias/js_utils
+	url = https://github.com/kernspaltung/js_utils.git
